@@ -13,7 +13,7 @@ class Window(QWidget):
     def __init__(self):
         super().__init__()
         # 设置窗口标题和大小
-        self.setWindowTitle("地化数据聚类分析小软件")
+        self.setWindowTitle("GeoKmeans-地化数据聚类分析小软件")
         self.setWindowIcon(QIcon('../pic/jl.ico'))
         # 创建两个按钮
         self.button1 = QPushButton("读取csv", self)
