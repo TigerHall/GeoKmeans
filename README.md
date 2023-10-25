@@ -14,3 +14,5 @@ pip install -r requirements.txt
 ```
 
 然后运行main.py文件启动程序
+
+或者习惯使用jupyter notebook的可使用相应文件代码
